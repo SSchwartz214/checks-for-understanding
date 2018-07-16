@@ -59,7 +59,7 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
     2) Resolving server
     3) Root
     4) Top level domain
-    5) 
+    5) ANS
 
 
 ### Review Questions
